@@ -1,4 +1,4 @@
-<h1 align="center">Hi...=!, I'm Md Miraz Hossain</h1>
+<h1 align="center">Hi...! I'm Md Miraz Hossain</h1>
 <h3 align="center">A passionate .Net developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirazshahin&label=Profile%20views&color=0e75b6&style=flat" alt="mirazshahin" /> </p>
@@ -9,19 +9,21 @@
 
 - 🔭 I’m currently working on **Academic**
 
-- 🌱 I’m currently learning **ASP.NET Core, WebAPI, Research**
+- 🌱 I’m currently learning **ASP.NET Core, WebAPI, Research, C#**
 
 - 💬 Ask me about **C, C++, C#, .NET, WebAPI**
 
-- 📫 How to reach me **Knock me at Linkedin**
+- 📫 How to reach me **Knock me at Linkedin (https://www.linkedin.com/in/miraz-hossain-12097b277/_**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1m5Xlk5hC5m3UZLNRfxgq8bFqF21vPEyf](https://drive.google.com/drive/u/0/folders/1m5Xlk5hC5m3UZLNRfxgq8bFqF21vPEyf)
-
-- ⚡ Fun fact **I think I am Lazy and Careless**
+- ⚡ Fun fact **I think, I am Lazy and Careless😂😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.topcoder.com/members/1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="1000" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/miraz hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miraz hossain" height="30" width="40" /></a>
+<a href="https://fb.com/miraz hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="miraz hossain" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/miraz_hossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="miraz_hossain" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mirazhossain_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mirazhossain_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/md miraz hossain shahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="md miraz hossain shahin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
